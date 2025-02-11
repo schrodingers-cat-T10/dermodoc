@@ -1,4 +1,4 @@
-# Dermodoc , you personal cost free skin doctor
+# Dermodoc , you personal cost free skin doctor 
 
 ## Dataset Description
 This dataset contains images of various skin infections collected from the internet. The dataset consists of **8 classes** categorized into bacterial, fungal, parasitic, and viral infections.
@@ -56,6 +56,6 @@ For classification, a **Vision Transformer (ViT)** model was used, achieving an 
 - **Accuracy Achieved:** 100%
 
 ## **Acknowledgment**
-This dataset was compiled for research and educational purposes in skin infection classification using deep learning models.
+This dataset was compiled for research and educational purposes in skin infection classification using deep learning models and was actually create for khacks'24.
 ```
 
