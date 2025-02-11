@@ -57,5 +57,3 @@ For classification, a **Vision Transformer (ViT)** model was used, achieving an 
 
 ## **Acknowledgment**
 This dataset was compiled for research and educational purposes in skin infection classification using deep learning models and was actually create for khacks'24.
-```
-
